@@ -1,3 +1,3 @@
-# UofO-Data-Bootcamp-Homework-1
-UofO Data Bootcamp Homework 1
-By Lacy Williams
+#Advanced Excel Demo
+
+Here I demonstrate Excel skills including conditional formatting, V-Lookup, formulas, functions, and pivot tables.
